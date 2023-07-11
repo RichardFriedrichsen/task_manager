@@ -1,0 +1,32 @@
+------------------------------------------------------------
+Total number of users: 4
+Total number of Tasks: 3
+
+User: 				Admin
+Total tasks:			2
+Total assigned to admin:  	66.67%
+Tasks completed:  		0.0%
+Still to be completed:		66.67%
+Uncomplete and overdue:		33.33%
+
+User: 				Richard
+Total tasks:			1
+Total assigned to richard:  	33.33%
+Tasks completed:  		0.0%
+Still to be completed:		33.33%
+Uncomplete and overdue:		0.0%
+
+User: 				Kim
+Total tasks:			0
+Total assigned to kim:  	0.0%
+Tasks completed:  		0.0%
+Still to be completed:		0.0%
+Uncomplete and overdue:		0.0%
+
+User: 				Jonathan
+Total tasks:			0
+Total assigned to jonathan:  	0.0%
+Tasks completed:  		0.0%
+Still to be completed:		0.0%
+Uncomplete and overdue:		0.0%
+------------------------------------------------------------

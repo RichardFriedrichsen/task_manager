@@ -1,0 +1,4 @@
+admin, adm1n
+Richard, password
+Kim, password
+Jonathan, password
