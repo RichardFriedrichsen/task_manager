@@ -1,0 +1,15 @@
+
+
+Docker: 
+
+In play labs run: 
+    docker run -ti richardfriedrichsen/task_manager
+
+Credentials: 
+    Username: Richard
+    Password: password
+
+https://hub.docker.com/repository/docker/richardfriedrichsen/task_manager/general
+
+Git hub:
+https://github.com/RichardFriedrichsen/task_manager
